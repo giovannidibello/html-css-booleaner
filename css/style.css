@@ -24,3 +24,28 @@ h1 {
 #blu {
     color: #66b1d3;
 }
+
+.didascalia {
+    font-size: 12px;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+/* tabella in main */
+
+table {
+    border-collapse: collapse;
+}
+
+
+th {
+    background-color: #1eabe2;
+    color: white;
+    width: 25%;
+}
+
+.azzurro-tab {
+    background-color: #b1e6f2;
+}
