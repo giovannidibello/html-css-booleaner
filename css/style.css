@@ -1,0 +1,12 @@
+/* header */
+header {
+    background-image: url(../img/pattern.png);
+    background-color: #4ea1ff;
+    background-attachment: fixed;
+    height: 160px;
+}
+
+#logo {
+    height: 80px;
+    margin-top: 70px;
+}
