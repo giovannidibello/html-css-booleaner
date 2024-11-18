@@ -17,6 +17,10 @@ h1 {
     font-size: 50px;
 }
 
+.immagini, .testo {
+    margin-top: 10px;
+}
+
 .grigio {
     color: #808080;
 }
@@ -48,4 +52,40 @@ th {
 
 .azzurro-tab {
     background-color: #b1e6f2;
+}
+
+/* footer */
+
+footer {
+    margin-top: 10px;
+}
+
+#testo-footer {
+    font-size: 20px;
+}
+
+#foto1 {
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 250px;
+    width: 250px;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#foto2 {
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 250px;
+    width: 250px;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 10px;
+    margin-top: 10px;
 }
