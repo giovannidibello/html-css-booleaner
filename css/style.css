@@ -10,3 +10,17 @@ header {
     height: 80px;
     margin-top: 70px;
 }
+
+/* main */
+
+h1 {
+    font-size: 50px;
+}
+
+.grigio {
+    color: #808080;
+}
+
+#blu {
+    color: #66b1d3;
+}
